@@ -1,0 +1,18 @@
+There is a lot of stuff on this page, isn`t it?
+
+Well, this is your main page!
+You can change your data, write anything you want in your blog,delete your blogs and browse any other page you want.
+You can also do it from any other page
+
+To create a record in your blog you need to
+1) Fill a big empty gap below the "Blog"
+
+2) Press "Send" and the record will be created
+
+To delete the needed record just hit the cross in the right top corner and the confirm it.
+
+You can also see your gallery above the Blog
+
+If you want to see the picture, just press on it and the picture will become bigger.
+
+If you want to log out, just hit "Logout" on the navbar. It's simple

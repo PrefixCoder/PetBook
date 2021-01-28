@@ -1,0 +1,17 @@
+
+It seems like you hit the Forum button!
+Well done,let's get sterted with forum then.
+
+1) If you are interested in any of topics displayed on your screen, press on its name 
+and you will be redirected at the discussion page.
+
+2) If none of them interests you, create your own topic!
+To make it done you just need to find a window "Add topic" in the left corner of your page.
+Type the title in the needed gap and the description of an issue that bothers you.
+Then press "Create".
+Congratulations, you have just created your own topic! Good job!
+
+3) Each topic consists of title,description and an information about the author.
+To find a topic of the needed user is easy. Just look at the email and nickname below the description. 
+
+

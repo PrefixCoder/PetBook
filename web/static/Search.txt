@@ -1,0 +1,10 @@
+If you see this, you are on the search page.
+
+1) First you see some filters.You can search anyone you need by email/animal type/something in forum
+
+2) Below these 3 buttons you can see a set of users or topics. It depends on the section you chose
+
+3) To search somebody in the network just enter the needed email in the search gap and press "Search"
+
+4) To use an extended search, which you can see on the right of the page, fill all the needed fields and press "Apply".
+If you want to restart, press "reset parameters"

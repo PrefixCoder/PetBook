@@ -1,0 +1,6 @@
+On this page you see a list of chats
+
+If you want to start messaging somebody, just press on the needed dialog 
+
+If you want to delete chat, press the "delete" button
+

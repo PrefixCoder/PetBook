@@ -1,0 +1,8 @@
+This page was created to allow the user to change the personal information and to upload media
+
+To upload any photo you need to press choose the photo on either near the logo button or near gallery button
+It depends on the photo you want to download.
+If you want to upload a new logo, then press logo, if you want to fulfill your gallery then press another button respectively.
+Then press "upload" in both cases
+
+To change any information about yourself you need to change it in the needed fields and then press "apply".

@@ -1,0 +1,14 @@
+Here you have two directions to choose: followers and following
+
+Following are the people you follow
+Followers are the people who follow you
+
+You can text both of them and follow your followers
+
+To get this done, you just need to press the button "Follow"
+If you don't want to follow this person anymore, press "Unfollow"
+
+If you want to message a certain person, press the button "Message"
+You will be redirected to the chat
+
+To enter your followers/following page,just press on the nickname and here you go.
